@@ -1,0 +1,75 @@
+C:\Users\User\source\repos\FlightDetection\FlightDetection\obj\Debug\FlightDetection.csprojAssemblyReference.cache
+C:\Users\User\source\repos\FlightDetection\FlightDetection\obj\Debug\DashBoard.g.cs
+C:\Users\User\source\repos\FlightDetection\FlightDetection\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\FlightDetection\FlightDetection\obj\Debug\App.g.cs
+C:\Users\User\source\repos\FlightDetection\FlightDetection\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\source\repos\FlightDetection\FlightDetection\obj\Debug\FlightDetection_MarkupCompile.cache
+C:\Users\User\source\repos\FlightDetection\FlightDetection\obj\Debug\FlightDetection_MarkupCompile.lref
+C:\Users\User\source\repos\FlightDetection\FlightDetection\bin\Debug\FlightDetection.exe.config
+C:\Users\User\source\repos\FlightDetection\FlightDetection\bin\Debug\FlightDetection.exe
+C:\Users\User\source\repos\FlightDetection\FlightDetection\bin\Debug\FlightDetection.pdb
+C:\Users\User\source\repos\FlightDetection\FlightDetection\obj\Debug\DashBoard.baml
+C:\Users\User\source\repos\FlightDetection\FlightDetection\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\FlightDetection\FlightDetection\obj\Debug\FlightDetection.g.resources
+C:\Users\User\source\repos\FlightDetection\FlightDetection\obj\Debug\FlightDetection.Properties.Resources.resources
+C:\Users\User\source\repos\FlightDetection\FlightDetection\obj\Debug\FlightDetection.csproj.GenerateResource.cache
+C:\Users\User\source\repos\FlightDetection\FlightDetection\obj\Debug\FlightDetection.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FlightDetection\FlightDetection\obj\Debug\FlightDetection.exe
+C:\Users\User\source\repos\FlightDetection\FlightDetection\obj\Debug\FlightDetection.pdb
+C:\Users\User\source\repos\FlightDetection\FlightDetection\obj\Debug\FullJoyStick.g.cs
+C:\Users\User\source\repos\FlightDetection\FlightDetection\obj\Debug\Slider.g.cs
+C:\Users\User\source\repos\FlightDetection\FlightDetection\obj\Debug\FullJoyStick.baml
+C:\Users\User\source\repos\FlightDetection\FlightDetection\obj\Debug\Slider.baml
+C:\Users\User\source\repos\FlightDetection\FlightDetection\obj\Debug\GraphVal.g.cs
+C:\Users\User\source\repos\FlightDetection\FlightDetection\obj\Debug\GraphVal.baml
+C:\Users\User\source\repos\FlightDetection\FlightDetection\bin\Debug\OxyPlot.dll
+C:\Users\User\source\repos\FlightDetection\FlightDetection\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\User\source\repos\FlightDetection\FlightDetection\bin\Debug\OxyPlot.xml
+C:\Users\User\source\repos\FlightDetection\FlightDetection\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\User\source\repos\FlightDetection\FlightDetection\obj\Debug\FlightDetection.csproj.CopyComplete
+C:\Users\liadm\Desktop\semester b\mitkadem\FlightDetection\FlightDetection\obj\Debug\FlightDetection.csprojAssemblyReference.cache
+C:\Users\liadm\Desktop\semester b\mitkadem\FlightDetection\FlightDetection\obj\Debug\DashBoard.g.cs
+C:\Users\liadm\Desktop\semester b\mitkadem\FlightDetection\FlightDetection\obj\Debug\FullJoyStick.g.cs
+C:\Users\liadm\Desktop\semester b\mitkadem\FlightDetection\FlightDetection\obj\Debug\GraphVal.g.cs
+C:\Users\liadm\Desktop\semester b\mitkadem\FlightDetection\FlightDetection\obj\Debug\MainWindow.g.cs
+C:\Users\liadm\Desktop\semester b\mitkadem\FlightDetection\FlightDetection\obj\Debug\Slider.g.cs
+C:\Users\liadm\Desktop\semester b\mitkadem\FlightDetection\FlightDetection\obj\Debug\App.g.cs
+C:\Users\liadm\Desktop\semester b\mitkadem\FlightDetection\FlightDetection\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\liadm\Desktop\semester b\mitkadem\FlightDetection\FlightDetection\obj\Debug\FlightDetection_MarkupCompile.cache
+C:\Users\liadm\Desktop\semester b\mitkadem\FlightDetection\FlightDetection\obj\Debug\FlightDetection_MarkupCompile.lref
+C:\Users\liadm\Desktop\semester b\mitkadem\FlightDetection\FlightDetection\obj\Debug\DashBoard.baml
+C:\Users\liadm\Desktop\semester b\mitkadem\FlightDetection\FlightDetection\obj\Debug\FullJoyStick.baml
+C:\Users\liadm\Desktop\semester b\mitkadem\FlightDetection\FlightDetection\obj\Debug\GraphVal.baml
+C:\Users\liadm\Desktop\semester b\mitkadem\FlightDetection\FlightDetection\obj\Debug\MainWindow.baml
+C:\Users\liadm\Desktop\semester b\mitkadem\FlightDetection\FlightDetection\obj\Debug\Slider.baml
+C:\Users\liadm\Desktop\semester b\mitkadem\FlightDetection\FlightDetection\obj\Debug\FlightDetection.g.resources
+C:\Users\liadm\Desktop\semester b\mitkadem\FlightDetection\FlightDetection\obj\Debug\FlightDetection.pdb
+C:\Users\liadm\Desktop\semester b\mitkadem\FlightDetection\FlightDetection\bin\Debug\FlightDetection.exe.config
+C:\Users\liadm\Desktop\semester b\mitkadem\FlightDetection\FlightDetection\bin\Debug\FlightDetection.exe
+C:\Users\liadm\Desktop\semester b\mitkadem\FlightDetection\FlightDetection\bin\Debug\FlightDetection.pdb
+C:\Users\liadm\Desktop\semester b\mitkadem\FlightDetection\FlightDetection\bin\Debug\OxyPlot.dll
+C:\Users\liadm\Desktop\semester b\mitkadem\FlightDetection\FlightDetection\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\liadm\Desktop\semester b\mitkadem\FlightDetection\FlightDetection\bin\Debug\OxyPlot.xml
+C:\Users\liadm\Desktop\semester b\mitkadem\FlightDetection\FlightDetection\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\liadm\Desktop\semester b\mitkadem\FlightDetection\FlightDetection\obj\Debug\FlightDetection.Properties.Resources.resources
+C:\Users\liadm\Desktop\semester b\mitkadem\FlightDetection\FlightDetection\obj\Debug\FlightDetection.csproj.GenerateResource.cache
+C:\Users\liadm\Desktop\semester b\mitkadem\FlightDetection\FlightDetection\obj\Debug\FlightDetection.csproj.CoreCompileInputs.cache
+C:\Users\liadm\Desktop\semester b\mitkadem\FlightDetection\FlightDetection\obj\Debug\FlightDetection.csproj.CopyComplete
+C:\Users\liadm\Desktop\semester b\mitkadem\FlightDetection\FlightDetection\obj\Debug\FlightDetection.exe
+C:\Users\liadm\Desktop\semester b\adv\FlightDetection\obj\Debug\FlightDetection.csprojAssemblyReference.cache
+C:\Users\liadm\Desktop\semester b\adv\FlightDetection\obj\Debug\DashBoard.g.cs
+C:\Users\liadm\Desktop\semester b\adv\FlightDetection\obj\Debug\FullJoyStick.g.cs
+C:\Users\liadm\Desktop\semester b\adv\FlightDetection\obj\Debug\GraphVal.g.cs
+C:\Users\liadm\Desktop\semester b\adv\FlightDetection\obj\Debug\MainWindow.g.cs
+C:\Users\liadm\Desktop\semester b\adv\FlightDetection\obj\Debug\Slider.g.cs
+C:\Users\liadm\Desktop\semester b\adv\FlightDetection\obj\Debug\App.g.cs
+C:\Users\liadm\Desktop\semester b\adv\FlightDetection\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\liadm\Desktop\semester b\adv\FlightDetection\obj\Debug\FlightDetection_MarkupCompile.cache
+C:\Users\liadm\Desktop\semester b\adv\FlightDetection\obj\Debug\FlightDetection_MarkupCompile.lref
+C:\Users\liadm\Desktop\semester b\adv\FlightDetection\obj\Debug\DashBoard.baml
+C:\Users\liadm\Desktop\semester b\adv\FlightDetection\obj\Debug\FullJoyStick.baml
+C:\Users\liadm\Desktop\semester b\adv\FlightDetection\obj\Debug\GraphVal.baml
+C:\Users\liadm\Desktop\semester b\adv\FlightDetection\obj\Debug\MainWindow.baml
+C:\Users\liadm\Desktop\semester b\adv\FlightDetection\obj\Debug\Slider.baml
+C:\Users\liadm\Desktop\semester b\adv\FlightDetection\obj\Debug\FlightDetection.g.resources
+C:\Users\liadm\Desktop\semester b\adv\FlightDetection\obj\Debug\FlightDetection.pdb
